@@ -1,0 +1,15 @@
+C:\_repo\csharp\my_csharp_projects\01_Attributes\AttributeAndFields\bin\Debug\net6.0\AttributeAndFields.exe
+C:\_repo\csharp\my_csharp_projects\01_Attributes\AttributeAndFields\bin\Debug\net6.0\AttributeAndFields.deps.json
+C:\_repo\csharp\my_csharp_projects\01_Attributes\AttributeAndFields\bin\Debug\net6.0\AttributeAndFields.runtimeconfig.json
+C:\_repo\csharp\my_csharp_projects\01_Attributes\AttributeAndFields\bin\Debug\net6.0\AttributeAndFields.dll
+C:\_repo\csharp\my_csharp_projects\01_Attributes\AttributeAndFields\bin\Debug\net6.0\AttributeAndFields.pdb
+C:\_repo\csharp\my_csharp_projects\01_Attributes\AttributeAndFields\obj\Debug\net6.0\AttributeAndFields.csproj.AssemblyReference.cache
+C:\_repo\csharp\my_csharp_projects\01_Attributes\AttributeAndFields\obj\Debug\net6.0\AttributeAndFields.GeneratedMSBuildEditorConfig.editorconfig
+C:\_repo\csharp\my_csharp_projects\01_Attributes\AttributeAndFields\obj\Debug\net6.0\AttributeAndFields.AssemblyInfoInputs.cache
+C:\_repo\csharp\my_csharp_projects\01_Attributes\AttributeAndFields\obj\Debug\net6.0\AttributeAndFields.AssemblyInfo.cs
+C:\_repo\csharp\my_csharp_projects\01_Attributes\AttributeAndFields\obj\Debug\net6.0\AttributeAndFields.csproj.CoreCompileInputs.cache
+C:\_repo\csharp\my_csharp_projects\01_Attributes\AttributeAndFields\obj\Debug\net6.0\AttributeAndFields.dll
+C:\_repo\csharp\my_csharp_projects\01_Attributes\AttributeAndFields\obj\Debug\net6.0\refint\AttributeAndFields.dll
+C:\_repo\csharp\my_csharp_projects\01_Attributes\AttributeAndFields\obj\Debug\net6.0\AttributeAndFields.pdb
+C:\_repo\csharp\my_csharp_projects\01_Attributes\AttributeAndFields\obj\Debug\net6.0\AttributeAndFields.genruntimeconfig.cache
+C:\_repo\csharp\my_csharp_projects\01_Attributes\AttributeAndFields\obj\Debug\net6.0\ref\AttributeAndFields.dll
